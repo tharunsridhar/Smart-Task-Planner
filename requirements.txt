@@ -1,0 +1,20 @@
+# AI Smart Task Planner - Dependencies
+
+# Core Dependencies
+gradio>=4.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Optional Dependencies (for standalone version)
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Utilities
+typing-extensions>=4.5.0
+pydantic>=2.0.0
+
+# Development Dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
