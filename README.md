@@ -17,17 +17,17 @@ Future Enhancements
 The AI Smart Task Planner uses advanced Large Language Model (LLM) reasoning to break down complex goals into structured, actionable task plans. It analyzes dependencies, estimates timelines, identifies risks, and prioritizes work—making project planning intelligent and effortless.
 
 Problem It Solves
-❌ Manual task breakdown is time-consuming and error-prone
-❌ Missing dependencies causes project delays
-❌ Poor time estimates lead to unrealistic deadlines
-❌ No risk identification upfront
+ Manual task breakdown is time-consuming and error-prone
+ Missing dependencies causes project delays
+ Poor time estimates lead to unrealistic deadlines
+ No risk identification upfront
 Our Solution
-✅ AI-powered task generation in seconds
-✅ Automatic dependency mapping
-✅ Realistic timeline estimation
-✅ Risk identification and mitigation
-✅ Priority-based task organization
-✨ Features
+ AI-powered task generation in seconds
+ Automatic dependency mapping
+ Realistic timeline estimation
+ Risk identification and mitigation
+ Priority-based task organization
+ Features
 Core Features
  LLM-Powered Reasoning: Uses GPT-4o-mini for intelligent task breakdown
  Dependency Mapping: Automatically identifies task dependencies
@@ -83,7 +83,7 @@ export OPENAI_API_KEY="sk-proj-your-key-here"
 
 # Run the application
 python app.py
-💻 Usage
+Usage
 Basic Usage
 python
 from task_planner import SmartTaskPlanner
