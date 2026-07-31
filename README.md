@@ -1,5 +1,9 @@
 # 🤖 AI Smart Task Planner
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-UI-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+
 AI-powered task breakdown system that transforms complex goals into structured, dependency-aware, risk-assessed execution plans using Large Language Model (LLM) reasoning.
 
 Built with GPT-4o-mini and deployed via a production-ready Gradio interface.
@@ -143,7 +147,7 @@ requirements.txt       → Dependencies
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-smart-task-planner.git
+git clone https://github.com/tharunsridhar/ai-smart-task-planner.git
 cd ai-smart-task-planner
 ```
 
