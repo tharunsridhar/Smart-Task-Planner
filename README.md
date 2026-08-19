@@ -147,8 +147,8 @@ requirements.txt       → Dependencies
 Clone repository:
 
 ```bash
-git clone https://github.com/tharunsridhar/ai-smart-task-planner.git
-cd ai-smart-task-planner
+git clone https://github.com/tharunsridhar/Smart-Task-Planner.git
+cd Smart-Task-Planner
 ```
 
 Install dependencies:
