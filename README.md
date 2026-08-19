@@ -142,7 +142,7 @@ requirements.txt       → Dependencies
 
 ## ⚙️ Installation
 
-### Option 1 — Local Setup
+### Option 1: Local Setup
 
 Clone repository:
 
